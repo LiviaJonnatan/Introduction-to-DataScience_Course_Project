@@ -15,7 +15,7 @@ Medical Cost Personal dataset is publicly available. It is used in Brett Lanz’
 
 ## Team Members
 ---
-- **Livia Jonnatan:** I am a Data Science major and Economics minor and I am new to GitHub.
+- **Livia Jonnatan:** I am a Data Science major and Economics minor. I enjoy photography and cooking.
 - **Matthew Currie:** I am a computer science major interested in data analysis. In my spare time, I watch too much youtube and read whatever library book I happen to have nearby.
 - **Jivraj Grewal:** I am a major in computer science and this is my frist time using data analyitics tools. 
 
